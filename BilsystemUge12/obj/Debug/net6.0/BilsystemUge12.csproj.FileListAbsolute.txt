@@ -1,0 +1,15 @@
+C:\Git\Test\BilsystemUge12\BilsystemUge12\bin\Debug\net6.0\BilsystemUge12.exe
+C:\Git\Test\BilsystemUge12\BilsystemUge12\bin\Debug\net6.0\BilsystemUge12.deps.json
+C:\Git\Test\BilsystemUge12\BilsystemUge12\bin\Debug\net6.0\BilsystemUge12.runtimeconfig.json
+C:\Git\Test\BilsystemUge12\BilsystemUge12\bin\Debug\net6.0\BilsystemUge12.dll
+C:\Git\Test\BilsystemUge12\BilsystemUge12\bin\Debug\net6.0\BilsystemUge12.pdb
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\BilsystemUge12.csproj.AssemblyReference.cache
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\BilsystemUge12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\BilsystemUge12.AssemblyInfoInputs.cache
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\BilsystemUge12.AssemblyInfo.cs
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\BilsystemUge12.csproj.CoreCompileInputs.cache
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\BilsystemUge12.dll
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\refint\BilsystemUge12.dll
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\BilsystemUge12.pdb
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\BilsystemUge12.genruntimeconfig.cache
+C:\Git\Test\BilsystemUge12\BilsystemUge12\obj\Debug\net6.0\ref\BilsystemUge12.dll
